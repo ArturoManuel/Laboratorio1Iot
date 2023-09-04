@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/icono"
-        android:icon="@drawable/baseline_youtube_searched_for_24"
+        android:icon="@drawable/baseline_query_stats_24"
         android:title="estadisticas"
         app:showAsAction="ifRoom" />
 
